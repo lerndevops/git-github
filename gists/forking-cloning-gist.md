@@ -8,7 +8,7 @@
 
 > Click On Fork 
 
-![click on fork](lerndevops/git-github/img/gist-setupUser.png)
+![click on fork](img/gist-setupUser.png)
 
 > Each gist indicates which forks have activity, making it easy to find interesting changes from others.
 
@@ -18,7 +18,7 @@
 
 > To clone a gist, select the Embed dropdown menu, then click Clone via HTTPS or Clone via SSH.
 
-![clone-gist](lerndevops/git-github/img/gist-clone.png)
+![clone-gist](img/gist-clone.png)
 
 ### Viewing gist commit history
 
@@ -26,4 +26,4 @@
 
 > You will see a full commit history for the gist with diffs.
 
-![gist-view-commit-history](lerndevops/git-github/img/gist-view-commit-history.png)
+![gist-view-commit-history](img/gist-view-commit-history.png)
